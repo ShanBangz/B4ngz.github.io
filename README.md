@@ -1,37 +1,36 @@
-## Welcome to B4ngz's GitHub Pages
+# Welcome to *Shan's* GitHub Page
+_Owned By: Shan Carlo G. Bangoyna_
 
-You can use the [editor on GitHub](https://github.com/ShanBangz/B4ngz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## *About Me:*
 
-### Markdown
+- I am 14 years old.
+- My Birthday is on *September 28, 2007*
+- I am currently at 9th grade
+- I want to study Architechture
+- I am a cat person
+- My cat's name is *Benedix Hansel Percieval K. Churchill 1st*
+- My favourite colour is Violet
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## *My Hobbies:*
 
-# Header 1
-## Header 2
-### Header 3
+- I like playing online co-op games
+- I like biking
+- I like listening to classical music
+- I sometimes play Piano
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## *Social Media and Contacts:*
 
-**Bold** and _Italic_ and `Code` text
+- [Facebook](https://www.facebook.com/shan.bangoyna.5/)
+- [Instagram](https://www.instagram.com/shanbangz/)
+- [Gmail](shancarlobangoyna@gmail.com)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## *Sir Gain's Github Page*
+- [Sir Gain](https://641n.github.io/computer-9/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShanBangz/B4ngz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> "Money cannot buy happines, but it's more comfortable to cry in a Mercedes than in a bicycle..."
+                                                                        - *John Wayne*
