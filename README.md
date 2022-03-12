@@ -10,7 +10,7 @@ _Owned By: Shan Carlo G. Bangoyna_
 - I am 14 years old.
 - My Birthday is on **September 28, 2007**
 - I am currently at 9th grade
-- I want to study Architechture
+- I want to study Architecture
 - I am a cat person
 - My cat's name is **Benedix Hansel Percieval K. Churchill 1st**
 - My favourite colour is Violet
