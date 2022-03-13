@@ -28,7 +28,6 @@ _Owned By: Shan Carlo G. Bangoyna_
 
 - [Facebook](https://www.facebook.com/shan.bangoyna.5/)
 - [Instagram](https://www.instagram.com/shanbangz/)
-- [Gmail](shancarlobangoyna@gmail.com)
 
 
 ## **Sir Gain's Github Page**
