@@ -7,34 +7,25 @@ _Owned By: Shan Carlo G. Bangoyna_
 
 ## **About Me:**
 
-- I am 14 years old.
+- I am currently 17 years old.
 - My Birthday is on **September 28, 2007**
-- I am currently at 9th grade
-- I want to study Architecture
+- I am a ghost contracted by the C.I.A. to terminate and destroy threats of the United States of America
 - I am a cat person
-- My cat's name is **Benedix Hansel Percieval K. Churchill 1st**
-- My favourite colour is Violet
+- I have killed 2 individuals
+- My Favourite gun is the M1911
+- I am a pianist
 
 
 ## **My Hobbies:**
-
-- I like playing online co-op games
-- I like biking
-- I like listening to classical music
-- I sometimes play Piano
-
-
-## **Social Media and Contacts:**
-
-- [Facebook](https://www.facebook.com/shan.bangoyna.5/)
-- [Instagram](https://www.instagram.com/shanbangz/)
-
-
-## **Sir Gain's Github Page**
-- [Sir Gain](https://641n.github.io/computer-9/)
+- I love solving complex Mathematical equations
+- I love playing online FPS games
+- I love listening to classical music.
 
 
 
 
-> "Money cannot buy happines, but it's more comfortable to cry in a Mercedes than in a bicycle..."
+
+
+
+> "He who is afraid of dying, should not be born."
                                                                         - **John Wayne**
